@@ -1,0 +1,1 @@
+The Octopus Server is the deployment automation server that orchestrates your releases and deploys your software, manages your deployment processes and runbooks.

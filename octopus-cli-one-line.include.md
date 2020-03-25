@@ -1,1 +1,1 @@
-The command-line tool for interacting with Octopus.
+The Octopus CLI is the command-line tool for interacting with Octopus.

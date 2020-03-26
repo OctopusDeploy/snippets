@@ -2,4 +2,4 @@ Operations Runbooks automate routine maintenance and emergency operations tasks,
 
 Runbooks belong to projects. To create or manage your Operations Runbooks, navigate to Project ➜ Operations ➜ Runbooks.
 
-![](images/runbooks-list.png)
+![](images/runbooks.png)

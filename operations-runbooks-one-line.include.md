@@ -1,1 +1,1 @@
-Operations Runbooks automate ops processes.
+Operations Runbooks automate routine maintenance and emergency operations tasks.

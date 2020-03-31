@@ -1,0 +1,1 @@
+Workers move deployment work off the Octopus Server and onto other machines running in worker pools.

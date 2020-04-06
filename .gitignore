@@ -1,0 +1,10 @@
+log/
+obj/
+_site/
+.vscode/
+*.iml
+.idea
+.DS_Store
+.vs/*
+*/.vs/*
+.atom/*
